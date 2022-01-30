@@ -1,1 +1,2 @@
-# localLib
+# LocalLib
+develoed by django, mysql.
